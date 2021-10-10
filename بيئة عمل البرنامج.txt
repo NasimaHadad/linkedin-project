@@ -1,0 +1,6 @@
+cd C:\Users\asus\Desktop\linkedin-project
+conda activate linkedin101
+conda deactivate
+jupyter notebook
+
+
